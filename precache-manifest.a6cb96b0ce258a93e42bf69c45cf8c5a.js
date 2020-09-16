@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfb71c14f23818540bfd0383d49d7fde",
+    "revision": "ec5043eabb29a4e8d13da34a3e79fc7f",
     "url": "https://oinsanex.github.io/netflixcl/index.html"
   },
   {
-    "revision": "2a1db0fc694c37538d0f",
+    "revision": "9925b45cfe52da1853b3",
     "url": "https://oinsanex.github.io/netflixcl/static/css/main.913865cd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://oinsanex.github.io/netflixcl/static/js/2.302ef0e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a1db0fc694c37538d0f",
-    "url": "https://oinsanex.github.io/netflixcl/static/js/main.fa56b03a.chunk.js"
+    "revision": "9925b45cfe52da1853b3",
+    "url": "https://oinsanex.github.io/netflixcl/static/js/main.ab8e1cff.chunk.js"
   },
   {
     "revision": "9cced2e5974314e82f97",

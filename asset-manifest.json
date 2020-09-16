@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://oinsanex.github.io/netflixcl/static/css/main.913865cd.chunk.css",
-    "main.js": "https://oinsanex.github.io/netflixcl/static/js/main.fa56b03a.chunk.js",
-    "main.js.map": "https://oinsanex.github.io/netflixcl/static/js/main.fa56b03a.chunk.js.map",
+    "main.js": "https://oinsanex.github.io/netflixcl/static/js/main.ab8e1cff.chunk.js",
+    "main.js.map": "https://oinsanex.github.io/netflixcl/static/js/main.ab8e1cff.chunk.js.map",
     "runtime-main.js": "https://oinsanex.github.io/netflixcl/static/js/runtime-main.5845dd4c.js",
     "runtime-main.js.map": "https://oinsanex.github.io/netflixcl/static/js/runtime-main.5845dd4c.js.map",
     "static/js/2.302ef0e3.chunk.js": "https://oinsanex.github.io/netflixcl/static/js/2.302ef0e3.chunk.js",
     "static/js/2.302ef0e3.chunk.js.map": "https://oinsanex.github.io/netflixcl/static/js/2.302ef0e3.chunk.js.map",
     "index.html": "https://oinsanex.github.io/netflixcl/index.html",
-    "precache-manifest.4ac5db554fa18b5511db1cb3d813a920.js": "https://oinsanex.github.io/netflixcl/precache-manifest.4ac5db554fa18b5511db1cb3d813a920.js",
+    "precache-manifest.a6cb96b0ce258a93e42bf69c45cf8c5a.js": "https://oinsanex.github.io/netflixcl/precache-manifest.a6cb96b0ce258a93e42bf69c45cf8c5a.js",
     "service-worker.js": "https://oinsanex.github.io/netflixcl/service-worker.js",
     "static/css/main.913865cd.chunk.css.map": "https://oinsanex.github.io/netflixcl/static/css/main.913865cd.chunk.css.map",
     "static/js/2.302ef0e3.chunk.js.LICENSE.txt": "https://oinsanex.github.io/netflixcl/static/js/2.302ef0e3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5845dd4c.js",
     "static/js/2.302ef0e3.chunk.js",
     "static/css/main.913865cd.chunk.css",
-    "static/js/main.fa56b03a.chunk.js"
+    "static/js/main.ab8e1cff.chunk.js"
   ]
 }
