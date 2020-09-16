@@ -65,6 +65,9 @@ return ()=>{
    </div>
 }
 </Route>
+<Route path ='/app/'>
+  <h2>hola</h2>
+</Route>
 </Router>
 
   
