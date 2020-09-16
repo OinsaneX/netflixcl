@@ -57,6 +57,7 @@ return ()=>{
      Feito com <span role="img" aria-label="coraçao">💖</span> por Alejandro <br/>
      Direito de imagen para Netflix <br/>
      Dados pegos do site ThemovieDb.org
+     <h2>Abrham tu puta madre ,Anntony tus muertos</h2>
    </footer>
 
    {movieList.length <=0 &&
