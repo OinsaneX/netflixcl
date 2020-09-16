@@ -4,6 +4,7 @@ import Tmdb from './Tmdb'
 import MovieRow from './components/MovieRow/MovieRow'
 import FeaturedMovie from './components/FeaturedMovie/FeaturedMovie'
 import Header from './components/Header/Header'
+import {BrowserRouter as Router, Route} from 'react-router-dom'
 function App() {
 
  const [movieList, setMovieList] = useState([]);
@@ -41,7 +42,9 @@ return ()=>{
 
   return (
   <div className="page">
-    <Header black ={blackHeader}/>
+<Router basename="https://oinsanex.github.io/netflixcl/">
+<Route path='/'>
+<Header black ={blackHeader}/>
    {featuredData && <FeaturedMovie item= {featuredData}/>} 
    <section className="lists">
      {movieList.map((item,key)=>(
@@ -61,6 +64,10 @@ return ()=>{
      <img src="https://cdn.lowgif.com/small/0534e2a412eeb281-the-counterintuitive-tech-behind-netflix-s-worldwide.gif" alt="loading"/>
    </div>
 }
+</Route>
+</Router>
+
+  
   </div>
   );
 }
