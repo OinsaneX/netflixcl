@@ -4,7 +4,7 @@ import Tmdb from './Tmdb'
 import MovieRow from './components/MovieRow/MovieRow'
 import FeaturedMovie from './components/FeaturedMovie/FeaturedMovie'
 import Header from './components/Header/Header'
-import {BrowserRouter as Router, Route} from 'react-router-dom'
+import {HashRouter as Router, Route} from 'react-router-dom'
 function App() {
 
  const [movieList, setMovieList] = useState([]);
